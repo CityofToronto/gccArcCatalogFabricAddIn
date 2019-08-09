@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
@@ -18,3 +19,25 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArcCatalogFabricLib", "ArcCatalogFabricLib\ArcCatalogFabricLib.csproj", "{A0F20032-D263-44F9-9869-AAE8E144B7EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0F20032-D263-44F9-9869-AAE8E144B7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F20032-D263-44F9-9869-AAE8E144B7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F20032-D263-44F9-9869-AAE8E144B7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F20032-D263-44F9-9869-AAE8E144B7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+>>>>>>> a733fe169500b9a9582ad48df12e6f3e86b79f11
